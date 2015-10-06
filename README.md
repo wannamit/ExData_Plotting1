@@ -38,7 +38,7 @@ All the plots are done for 2 days only 2007 Jan and Feb.
 ### Plot 1
 
 
-![plot1](/plot1.png) 
+![plot plot1](/plot1.png) 
 
 
 ### Plot 2
